@@ -11,11 +11,11 @@ while True:
     cnt += 1
     if cnt%5 == 0:
         cnt = 0
-        playsound('/home/ub6wbw/Python/My Sources/mp3/' + Rand5[0] + '.mp3')
-        playsound('/home/ub6wbw/Python/My Sources/mp3/' + Rand5[1] + '.mp3')
-        playsound('/home/ub6wbw/Python/My Sources/mp3/' + Rand5[2] + '.mp3')
-        playsound('/home/ub6wbw/Python/My Sources/mp3/' + Rand5[3] + '.mp3')
-        playsound('/home/ub6wbw/Python/My Sources/mp3/' + Rand5[4] + '.mp3')
+        playsound('' + Rand5[0] + '.mp3')
+        playsound('' + Rand5[1] + '.mp3')
+        playsound('' + Rand5[2] + '.mp3')
+        playsound('' + Rand5[3] + '.mp3')
+        playsound('' + Rand5[4] + '.mp3')
         Input = '.'.join(input()).split('.')
         if Input == Rand5:
             print('Ok !')
