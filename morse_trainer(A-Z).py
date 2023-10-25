@@ -1,4 +1,5 @@
 #Morse Code Trainer
+#FROM UB6WBW
 
 from playsound import playsound
 from random import randint
