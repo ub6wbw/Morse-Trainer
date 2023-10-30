@@ -7,6 +7,7 @@ from time import sleep
 
 cnt = 0
 Rand5 = []
+
 while True:
     Rand5.append(chr(randint(65, 90)))
     cnt += 1
