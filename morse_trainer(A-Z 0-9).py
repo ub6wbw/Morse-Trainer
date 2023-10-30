@@ -8,6 +8,7 @@ from time import sleep
 cnt = 0
 rnd = []
 Rand5 = []
+
 while True:
     rnd.append(randint(48, 57))
     rnd.append(randint(65, 90))
