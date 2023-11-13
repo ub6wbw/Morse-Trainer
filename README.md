@@ -2,6 +2,7 @@
 # MorseTrainer
 
 Simple Morse Code Trainer:
+
   morse_trainer(0-9) - Digits
   
   morse_trainer(A-Z) - English
