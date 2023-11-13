@@ -1,7 +1,7 @@
 # Morse
 # MorseTrainer
 
-Simple Morse Code Trainer:
+Files:
 
   morse_trainer(0-9) - Digits
   
