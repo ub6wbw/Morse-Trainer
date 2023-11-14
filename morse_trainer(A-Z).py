@@ -11,7 +11,7 @@ cnt = 0
 #Rand5 = array with group symbols
 Rand5 = []
 #MAX_SYMBOLS = limit of characters in a group
-MAX_SYMBOLS = 10
+MAX_SYMBOLS = 5
 
 while True:
     Rand5.append(chr(randint(65, 90)))
