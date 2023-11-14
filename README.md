@@ -11,6 +11,4 @@ Files:
 
   
 
-Copy to yourself:
-
-git clone https://github.com/ub6wbw/Morse-Trainer
+Copy to yourself    git clone https://github.com/ub6wbw/Morse-Trainer
