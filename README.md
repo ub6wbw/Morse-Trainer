@@ -1,7 +1,7 @@
 # Morse
 # MorseTrainer
 
-**Files:**
+**Files**
   morse_trainer(0-9) - Digits
   
   morse_trainer(A-Z) - English
